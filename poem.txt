@@ -3,6 +3,7 @@ The Rainbow and the Unicorn
 Puple
 Pink
 Orange
+Indigo
 Unicorn
 Blue
 These are the colors of the rainbow.
